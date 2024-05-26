@@ -356,8 +356,11 @@ body.light-mode .mini-card {
     background-color: var(--white);
 }
 
+
 body.light-mode .card h2,
 body.light-mode .mini-card h2,
+body.light-mode .card h3,
+body.light-mode .mini-card h3,
 body.light-mode .overview-head {
     color: var(--dark-grayish-blue);
 }
